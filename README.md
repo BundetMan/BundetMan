@@ -25,6 +25,6 @@ I'm a passionate fullstack developer with experience across several modern frame
 
 
 ---
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=BundetMan&show_icons=true&theme=radical)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 
