@@ -15,7 +15,7 @@ I'm a passionate fullstack developer with experience across several modern frame
 - **Backend:** Slim PHP, Laravel (near advanced), Spring Boot (beginner), .NET Core (intermediate)
 - **Languages:** Java (advanced), C# (intermediate)
 - **Databases:** MySQL, PostgreSQL, SQL Server
-- **Tools:** Git, Docker (if you use it), REST APIs
+- **Tools:** Git, REST APIs
 
 ---
 
