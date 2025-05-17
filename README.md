@@ -21,7 +21,7 @@ I'm a passionate fullstack developer with experience across several modern frame
 
 ### Projects
 
-- [Product Management React PHP](https://github.com/BundetMan/Product-Management-Full) — Fullstack product management app using React and Slim PHP.
+- [Product Management React PHP](https://github.com/BundetMan/Product-Fullstack) — Fullstack product management app using React and Slim PHP.
 
 
 ---
