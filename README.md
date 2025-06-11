@@ -4,7 +4,7 @@ I'm a passionate fullstack developer with experience across several modern frame
 
 - 🌱 Currently advancing my skills in Laravel and exploring Spring Boot.
 - 🔭 Working with React (Vite), Slim PHP, and building APIs.
-- 💬 Feel free to ask me about React, PHP backend, Java, or .NET Core.
+- 💬 Feel free to ask me about React, PHP backend, Laravel, Java, or .NET Core.
 - 📫 How to reach me: namebundet2020@gmail.com
 
 ---
